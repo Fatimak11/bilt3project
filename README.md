@@ -19,4 +19,3 @@
 - CloudFormation
 - Ansible
 - Jenkins
-- 
